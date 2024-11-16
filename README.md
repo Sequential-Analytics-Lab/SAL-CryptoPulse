@@ -18,7 +18,7 @@ Alternatively, you can install it manually:
 
 1. Clone the repo:
 
-        `git clone https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git`
+        git clone https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git
 
         cd SAL-Cryptopulse
 
@@ -36,7 +36,7 @@ After installation, you can run the model directly using the package's command l
 
     For a single run:
     
-        cryptopulse --data <crypto-ticker-symbol> --train-epochs 10 --batch-size 32
+        cryptopulse --data <crypto-ticker-symbol> --train-epochs 10 --batch-size 32 <!-- This is a comment and will not be displayed in the rendered README -->
 
     For batch processing (multiple cryptos at once):
     
