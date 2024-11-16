@@ -36,13 +36,13 @@ After installation, you can run the model directly using the package's command l
 
     For a single run:
     
-        cryptopulse --data <crypto-ticker-symbol> --train-epochs 10 --batch-size 32 <!-- This is a comment and will not be displayed in the rendered README -->
+        cryptopulse --data <crypto-ticker-symbol> --train-epochs 10 --batch-size 32 
 
     For batch processing (multiple cryptos at once):
     
         cryptopulse_batch
 
-Alternatively, you can run the model using Python command if you had cloned the repo in your local
+Alternatively, you can run the model using the Python command if you have cloned the repo in your local
 
     For a single run:
     
