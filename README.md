@@ -22,7 +22,7 @@ Alternatively, you can install it manually:
 
     cd SAL-Cryptopulse
 
-2. Install dependencies in a virtual environment if code is cloned:
+2. Install dependencies in a virtual environment:
 
     python -m venv env_crypto
 
