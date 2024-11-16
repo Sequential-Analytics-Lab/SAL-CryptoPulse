@@ -61,7 +61,7 @@ All results are saved in the results/cryptopulse_results directory.
 Feel free to use this research work. Let’s build a smarter CryptoPulse together!
 
 ## 📝 Citation
-
+Update once I will get the citation details
 @article{salcryptopulse2024,
 author = {Amit Kumar and Dr. Taoran Ji},
 title = {CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators},
