@@ -18,35 +18,35 @@ Alternatively, you can install it manually:
 
 1. Clone the repo:
 
-    git clone https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git
+        git clone https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git
 
-    cd SAL-Cryptopulse
+        cd SAL-Cryptopulse
 
 2. Install dependencies in a virtual environment:
 
-    python -m venv env_crypto
+        python -m venv env_crypto
 
-    env_crypto\Scripts\activate
+        env_crypto\Scripts\activate
 
-    pip install -e .
+        pip install -e .
 
 ## 🎯 Usage
 
 After installation, you can run the model directly using the package's command line interface if you had installed the package directly from GitHub with `pip :
 
     For a single run:
-    cryptopulse --data <crypto-ticker-symbol> --train-epochs 10 --batch-size 32
+        cryptopulse --data <crypto-ticker-symbol> --train-epochs 10 --batch-size 32
 
     For batch processing (multiple cryptos at once):
-cryptopulse_batch
+        cryptopulse_batch
 
 Alternatively, you can run the model using Python command if you had cloned the repo in your local
 
     For a single run:
-python -m cryptopulse.main --data BTC-USD --train-epochs 10 --batch-size 32
+        python -m cryptopulse.main --data BTC-USD --train-epochs 10 --batch-size 32
 
     For batch processing (multiple cryptos at once):
-python -m cryptopulse.batch_processor
+        python -m cryptopulse.batch_processor
 
 ## 📊 Results
 
