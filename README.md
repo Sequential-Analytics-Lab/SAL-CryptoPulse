@@ -18,7 +18,7 @@ Alternatively, you can install it manually:
 
 1. Clone the repo:
 
-        git clone https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git
+        `git clone https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git`
 
         cd SAL-Cryptopulse
 
