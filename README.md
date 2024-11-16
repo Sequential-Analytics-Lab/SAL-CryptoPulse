@@ -18,17 +18,17 @@ Alternatively, you can install it manually:
 
 1. Clone the repo:
 
-git clone https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git
+    git clone https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git
 
-cd SAL-Cryptopulse
+    cd SAL-Cryptopulse
 
-2. Install dependencies in a virtual environment:
+2. Install dependencies in a virtual environment if code is cloned:
 
-python -m venv env_crypto
+    python -m venv env_crypto
 
-env_crypto\Scripts\activate
+    env_crypto\Scripts\activate
 
-pip install -e .
+    pip install -e .
 
 ## 🎯 Usage
 
