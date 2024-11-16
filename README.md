@@ -12,7 +12,7 @@ The official implementation of the paper "CryptoPulse: Short-Term Cryptocurrency
 
 You can install the package directly from GitHub with `pip`:
 
-pip install git+https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git
+        pip install git+https://github.com/Sequential-Analytics-Lab/SAL-CryptoPulse.git
 
 Alternatively, you can install it manually:
 
