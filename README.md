@@ -58,7 +58,9 @@ All results are saved in the results/cryptopulse_results directory.
 
 ## 💡 Contributing
 
-Feel free to use this research work. Let’s build a smarter CryptoPulse together!
+Feel free to use this research work. Let’s build a smarter CryptoPulse together! If you have any questions, or suggestions, or want to collaborate on future developments, don’t hesitate to reach out.
+
+You can connect with me on LinkedIn: Amit - https://www.linkedin.com/in/aamit-datascientist/
 
 ## 📝 Citation
 Update once I will get the citation details
